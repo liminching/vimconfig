@@ -1,0 +1,4 @@
+vimconfig
+=========
+test
+vimconfig
