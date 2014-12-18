@@ -1,4 +1,3 @@
 vimconfig
 =========
-test
 vimconfig
